@@ -1,0 +1,13 @@
+/* font-family: 'Quicksand', sans-serif;
+font-family: 'Dosis', sans-serif;
+*/
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+}
