@@ -73,6 +73,7 @@ p {
   .col-6 {
     width: 100%;
   }
+
   h1 {
     font-size: 60px;
   }
@@ -83,6 +84,7 @@ p {
 
   .hero {
     padding: 80px 20px;
+    width: 100%;
   }
 
   .project-description {
